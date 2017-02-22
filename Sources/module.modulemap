@@ -1,0 +1,5 @@
+module CLMDB [system] {
+    header "include/lmdb.h"
+    link "lmdb"
+    export *
+}
